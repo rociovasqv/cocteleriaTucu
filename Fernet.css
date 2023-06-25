@@ -1,0 +1,38 @@
+*{
+    font-family: 'Lucida Sans';
+    
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    background-color: #4ec2b4;
+    padding: 30px;
+}
+h2{
+    text-align:left;
+}
+a{
+    color: black;
+    background-color: #E0252A;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+    position:relative;
+    left: 45%;
+    top:45px;
+}
+a:hover{
+    box-shadow: inset -3px -3px #4b4242 ;
+}
+
+#inicio{
+    position: relative;
+    left: 48%;
+    top:45px;
+}
+img{
+    position:relative;
+    left: 35%;
+}
